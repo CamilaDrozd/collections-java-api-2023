@@ -29,9 +29,8 @@ public class CarrinhoDeCompras {
         }
         carrinhoItem.removeAll(itemParaRemover);
     }
-    } else{
-        System.out.println("Carrinho Vazio");
     }
+
 
 
 
